@@ -47,3 +47,5 @@ Temporary Items
 .apdisk
 *.xml
 .cache/v/cache/lastfailed
+*.pyc
+geckodriver.log
